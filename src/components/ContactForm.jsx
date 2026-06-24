@@ -66,7 +66,7 @@ function ContactForm() {
   return (
     <div className="min-h-screen w-full bg-[#0b0a10] flex items-center justify-center p-6">
       <div className="relative w-full max-w-md">
-        {/* Ambient indigo glow */}
+       
         <div
           className="absolute -inset-10 blur-3xl rounded-full pointer-events-none opacity-40"
           style={{
